@@ -1,0 +1,14 @@
+{
+  "name": "sorry_whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sorry.js",
+  "scripts": {
+    "start": "node sorry.js"
+  },
+  "author": "Shivam Kapoor",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  }
+}
